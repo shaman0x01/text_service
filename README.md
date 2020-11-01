@@ -15,7 +15,8 @@ Application operates on two modes:
  ```
  
  ## Usage
-  - First you open two console window one for server, another for client. 
+  - First you open two console window one for server, another for client.
+  
   For server:
    ```sh
   python3 text_service.py server -p <port_number>
